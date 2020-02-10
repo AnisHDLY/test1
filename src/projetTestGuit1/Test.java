@@ -6,6 +6,8 @@ public class Test {
 		System.out.println("je suis page git");
 		System.out.println("je suis page git2");
 		System.out.println("je suis page git3");
+		
+		System.out.println("je suis page git4");
 
 	}
 
